@@ -1,4 +1,5 @@
 import { Workbox } from 'workbox-window';
+// import { registerSW } from './register-sw';
 import Editor from './editor';
 import './database';
 import '../css/style.css';

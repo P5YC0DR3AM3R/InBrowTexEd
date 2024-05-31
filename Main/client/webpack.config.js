@@ -3,6 +3,8 @@ const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
 const { GenerateSW } = require('workbox-webpack-plugin');
 
+// const WorkboxPlugin = require('workbox-webpack-plugin');
+
 // TODO: Add and configure workbox plugins for a service worker and manifest file.
 module.exports = () => {
   return {
@@ -12,20 +14,20 @@ module.exports = () => {
       install: './src/js/install.js'
     },
     output: {
-      filename: 'bundle.js',
+      filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'TODOs List'
+        title: 'Text Editor'
       }),
-
+      // new WorkboxPlugin.GenerateSW()
       new GenerateSW(),
       new WebpackPwaManifest({
-        name: 'TODOs',
-        short_name: 'TODOs',
-        description: 'Keep track of important tasks!',
+        name: 'Text Editor',
+        short_name: 'Editor',
+        description: 'In browser text editor',
         background_color: '#7eb4e2',
         theme_color: '#7eb4e2',
         start_url: './',
