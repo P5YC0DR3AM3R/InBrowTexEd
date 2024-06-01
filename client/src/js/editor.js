@@ -39,25 +39,5 @@ export default class {
       console.log('The editor has lost focus');
       putDb({ id: 1, content: localStorage.getItem('content') });
     });
-
-    // // Check if the browser is online or offline
-    // if (!navigator.onLine) {
-    //   console.warn('You are currently offline. Some features may be unavailable.');
-    //   // Handle offline functionality here
-    //   // For example, you can display a message or disable certain features
-    //   alert('You are currently offline. Some features may be unavailable.');
-    // } else {
-    //   console.log('You are online.');
-    // }
-
-    // window.addEventListener('offline', () => {
-    //   console.warn('The browser is now offline.');
-    //   alert('You have lost internet connection. Some features may be unavailable.');
-    // });
-
-    // window.addEventListener('online', () => {
-    //   console.log('The browser is now online.');
-    //   alert('You are back online.');
-    // });
   }
 }

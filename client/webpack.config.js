@@ -14,7 +14,7 @@ module.exports = () => {
       install: './src/js/install.js'
     },
     output: {
-      filename: '[name].bundle.js',
+      filename: '[name]bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
     
@@ -29,16 +29,19 @@ module.exports = () => {
         swDest: 'src-sw.js', // Keep the same name
       }),
       new WebpackPwaManifest({
+        inject: true,
+        fingerprints: false,
         name: 'Text Editor',
         short_name: 'Editor',
         description: 'In browser text editor',
         background_color: '#7eb4e2',
         theme_color: '#7eb4e2',
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
+        display:'standalone',
         icons: [
           {
-            src: path.resolve('src/images/logo.png'),
+            src: path.resolve('src/images/logo.png'), 
             sizes: [96, 128, 192, 256, 384, 512],
             destination: path.join('assets', 'icons'),
           },
