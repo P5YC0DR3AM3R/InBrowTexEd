@@ -16,7 +16,6 @@
 
 ### What did you learn?
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)  
 
       This project solidified my understanding of JavaScript, and React design.
 
@@ -30,7 +29,10 @@
 - [Email](#email)
 
 ## Installation
-npm run start
+
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)  
+
+ https://inbrowtexed.onrender.com
 
 ## Usage
 
@@ -40,7 +42,7 @@ npm run start
 
 <video src="https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=sharing" controls width="640" height="360"></video>
 
-https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=sharing
+ https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=sharing
 
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -55,7 +57,8 @@ https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=shari
       copies of the Software, and to permit persons to whom the Software is
       furnished to do so, subject to the following conditions:
 
-      The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+      The above copyright notice and this permission notice shall be included in all
+      copies or substantial portions of the Software.
 
       THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
       IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -63,7 +66,8 @@ https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=shari
       AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
       LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
       OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-      SOFTWARE.</details>
+      SOFTWARE.
+</details>
 
 ## Contributing
 Email the author for more information about how to contribute to the project, or how to help fund it in the future.
