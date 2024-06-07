@@ -30,17 +30,17 @@
 
 ## Installation
 
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)  
+[![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)](https://inbrowtexed.onrender.com)  
 
  https://inbrowtexed.onrender.com
 
 ## Usage
 
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/P5YC0DR3AM3R/InBrowTexEd)
 
  https://github.com/P5YC0DR3AM3R/InBrowTexEd
 
-<video src="https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=sharing" controls width="640" height="360"></video>
+Video Demo:
 
  https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=sharing
 
