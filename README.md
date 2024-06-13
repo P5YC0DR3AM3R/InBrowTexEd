@@ -40,10 +40,6 @@
 
  https://github.com/P5YC0DR3AM3R/InBrowTexEd
 
-Video Demo:
-
- https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=sharing
-
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
