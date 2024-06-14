@@ -40,10 +40,6 @@
 
  https://github.com/P5YC0DR3AM3R/InBrowTexEd
 
-Video Demo:
-
- https://drive.google.com/file/d/1jczDmmxup3o6pjTHBtfQuwZTT3BgY5WL/view?usp=sharing
-
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
@@ -86,6 +82,10 @@ Micah Read
 ![Mac OS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 
 <br>
+
+# Sources 
+
+Tudor Tocan - EdX Tutor
 
 ![MDN Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
