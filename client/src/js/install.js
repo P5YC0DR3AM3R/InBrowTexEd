@@ -17,7 +17,6 @@ butInstall.addEventListener('click', async () => {
     console.log('User choice outcome:', outcome);
 });
 
-// TODO: Add an handler for the `appinstalled` event
 window.addEventListener('appinstalled', (event) => {
     console.log('App installed');
     window.alert('JATE has been installed');
