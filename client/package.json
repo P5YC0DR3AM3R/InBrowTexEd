@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
-    "start": "webpack --watch"
+    "start": "webpack --watch",
+    "test": "echo check-via-ci"
   },
   "author": "2U",
   "license": "UNLICENSED",
@@ -27,5 +28,8 @@
   "dependencies": {
     "code-mirror-themes": "^1.0.0",
     "idb": "^6.1.2"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }
